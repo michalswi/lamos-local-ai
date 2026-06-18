@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://apps.apple.com/app"><img src="img/mac-app-store-badge.svg" alt="Download on the App Store"></a>
+  <a href="https://apps.apple.com/pl/app/lamos/id6779584822"><img src="img/mac-app-store-badge.svg" alt="Download on the App Store"></a>
 </p>
 
 **lamos** is a private, on-device AI assistant for iPhone and iPad.
