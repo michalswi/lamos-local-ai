@@ -1,4 +1,8 @@
-**Lamos** is a private, on-device AI assistant for iPhone and iPad.
+<p align="center">
+  <a href="https://apps.apple.com/app"><img src="img/mac-app-store-badge.svg" alt="Download on the App Store"></a>
+</p>
+
+**lamos** is a private, on-device AI assistant for iPhone and iPad.
 Download a model once, then chat fully offline with no account, 
 no cloud processing, no tracking and no limits. Analyze text, documents,
 and images with supported models, then tune settings for speed 
