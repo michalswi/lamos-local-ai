@@ -9,9 +9,10 @@ and images with supported models, then tune settings for speed
 or quality. Your conversations stay on your device.
 
 Available models are:
-- Bielik (SpeakLeash): text
-- Gemma 4 (Google): text + image (vision)
 - Qwen 3.5 (Alibaba): text + image (vision)
+- Gemma 4 (Google): text + image (vision)
+- Ministral (MistralAI): text + image (vision)
+- Bielik (SpeakLeash): text
 
 Use built-in Assistants to improve your interactions with models:
 - General
