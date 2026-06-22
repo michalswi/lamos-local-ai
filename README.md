@@ -1,12 +1,12 @@
-<p align="center">
-  <a href="https://apps.apple.com/pl/app/lamos/id6779584822"><img src="img/mac-app-store-badge.svg" alt="Download on the App Store"></a>
-</p>
-
 **lamos** is a private, on-device AI assistant for iPhone and iPad.
 Download a model once, then chat fully offline with no account, 
 no cloud processing, no tracking and no limits. Analyze text, documents,
 and images with supported models, then tune settings for speed 
 or quality. Your conversations stay on your device.
+
+<p align="center">
+  <a href="https://apps.apple.com/app/id6779584822"><img src="img/mac-app-store-badge.svg" alt="Download on the App Store"></a>
+</p>
 
 Available models are:
 - Qwen 3.5 (Alibaba): text + image (vision)
