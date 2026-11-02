@@ -13,6 +13,8 @@ Available models are:
 - Gemma 4 (Google): text + image (vision)
 - Ministral (MistralAI): text + image (vision)
 - Bielik (SpeakLeash): text
+- LFM 2.5 (LiquidAI): text
+- LFM 3 (LiquidAI): text
 
 Use built-in Assistants to improve your interactions with models:
 - General
